@@ -57,6 +57,7 @@
   <ItemGroup>
      <Compile Include="Assets\fire.cs" />
      <Compile Include="Assets\MovementController.cs" />
+     <Compile Include="Assets\ParticleScript.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/okamotohinata/Downloads/3D_Shooting/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
